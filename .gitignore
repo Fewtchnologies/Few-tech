@@ -1,0 +1,14 @@
+
+node_modules/
+frontend/node_modules/
+
+.next/
+frontend/.next/
+
+# Ignore log files
+*.log
+
+# Ignore environment variables
+.env
+
+
