@@ -1,6 +1,7 @@
 
 node_modules/
 frontend/node_modules/
+backend/node_modules
 
 .next/
 frontend/.next/
@@ -9,6 +10,6 @@ frontend/.next/
 *.log
 
 # Ignore environment variables
-.env
+backend/.env
 
 
